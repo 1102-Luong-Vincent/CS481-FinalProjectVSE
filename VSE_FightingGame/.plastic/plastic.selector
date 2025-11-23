@@ -1,0 +1,4 @@
+repository "VSE_FightingGame/VSE_FightingGame@20067305783418@cloud"
+  path "/"
+    br "/main"
+    co "/main"
